@@ -4,6 +4,7 @@
 
 <!-- backlink-building:github-repository:start -->
 ### nhyscrews.com
+- [Extruder Screen Changer Cost: Why Total Cost of Ownership Matters](nhyscrews.com/extruder-screen-changer-cost-why-total-cost-of-ownership-matters.md)
 - [Injection Molding Cushion Variation: Why Stability Beats Size](nhyscrews.com/injection-molding-cushion-variation-why-stability-beats-size.md)
 - [Injection Molding Flash: Fix the Leak Path, Not the Symptom](nhyscrews.com/injection-molding-flash-fix-the-leak-path-not-the-symptom.md)
 - [Single Screw Barrel Selection: Match the Process, Not Just the Dimensions](nhyscrews.com/single-screw-barrel-selection-match-the-process-not-just-the-dimensions.md)
